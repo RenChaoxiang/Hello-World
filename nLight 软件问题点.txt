@@ -1,0 +1,7 @@
+1.框架使用方法：需要进行哪些必要操作流程：例如添加Instruments？
+2.添加Instruments时，ID、名称怎么定义？
+3.具体的Instruments module怎么独立调试功能？Thorlabs tester.vi独立运行不起来；
+4.光斑分析仪具体型号和资料，BeamGage和BeamMic使用哪个类，这两个类打开时都缺少东西，可能是仪器驱动；
+5.Employee number是什么？
+6.程序框架其他部分细节问题
+7.数据库相关问题
